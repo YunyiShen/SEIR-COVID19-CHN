@@ -1,0 +1,10 @@
+name: seir_covid19-chn
+title:
+username:
+account: yunyishen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2142975
+bundleId: 3032574
+url: https://yunyishen.shinyapps.io/seir_covid19-chn/
+when: 1587253306.98032
